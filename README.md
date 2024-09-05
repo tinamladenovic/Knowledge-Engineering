@@ -1,2 +1,4 @@
 # Knowledge-Engineering
-Projekat iz predmeta Inženjering Znanja.
+Predmet: Inženjering Znanja
+Specifikacija se nalazi na repozitorijumu u pdf formatu.
+
