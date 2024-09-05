@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/apache-tomcat-9.0.86">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/aopalliance-repackaged-2.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/hk2-api-2.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/hk2-locator-2.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/hk2-utils-2.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.activation-api-1.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.inject-2.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.json.bind-api-1.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.json-1.1.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.json-1.1.6-module.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.json-api-1.1.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.persistence-api-2.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.servlet-api-4.0.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.validation-api-2.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.ws.rs-api-2.1.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.ws.rs-api-2.1.6-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jakarta.xml.bind-api-2.3.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-client.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-common.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-container-servlet.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-container-servlet-core.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-hk2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-media-jaxb.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-media-json-binding.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-media-sse.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jersey-server.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/org.osgi.core-6.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/osgi-resource-locator-1.0.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/yasson-1.0.11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jFuzzyLogic.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/commons-rdf-api-0.5.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/guava-30.1.1-jre.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/commons-collections-3.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/slf4j-api-2.0.16.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/slf4j-simple-2.0.16.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/caffeine-2.8.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/rdf4j-rio-api-5.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/rdf4j-rio-jsonld-5.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/rdf4j-rio-languages-4.3.12.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/hppc-0.7.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/rdf4j-storage-2.5.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/hppcrt-0.7.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/org.semanticweb.hermit-1.3.8.413.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/owlapi-api-3.4.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/owlapi-apibinding-3.4.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/owlapi-distribution-3.4.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/owlapi-impl-3.4.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/owlapi-parsers-3.4.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/eclipse-workspace/apache-tomcat-9.0.89/apache-tomcat-9.0.89/webapps/KnowledgeEngineering/src/main/webapp/WEB-INF/lib/jstl-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
